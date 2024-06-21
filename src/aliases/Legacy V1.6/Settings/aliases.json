@@ -1,0 +1,16 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Legacy Settings",
+              "regex": "^(legacy|Legacy)$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "L Help",
+              "regex": "^lhelp$",
+              "script": ""
+       }
+]

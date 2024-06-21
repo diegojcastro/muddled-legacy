@@ -1,0 +1,30 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "USE THIS TO CHANGE YOUR CURING PRIOS",
+              "regex": "^update curing prios$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Curing Pause",
+              "regex": "^pp$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Health Mana Prio toggle",
+              "regex": "^cp$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Load Curing Set",
+              "regex": "^cset$",
+              "script": ""
+       }
+]

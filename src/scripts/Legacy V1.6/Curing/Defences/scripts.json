@@ -1,0 +1,50 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "DefRemove",
+              "eventHandlerList": [
+                     "gmcp.Char.Defences.Remove"
+              ],
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "DefAdd",
+              "eventHandlerList": [
+                     "gmcp.Char.Defences.Add"
+              ],
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Armour",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Defup",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Defense Set (Dset)",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Defense Display",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Defense Keepup",
+              "script": ""
+       }
+]

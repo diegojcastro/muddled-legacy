@@ -1,0 +1,65 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Manual Lookup",
+              "regex": "^ndb\\s(\\w+)\\s?(delete)?$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Update new players",
+              "regex": "^ndb$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "List every city and their people",
+              "regex": "^qwp$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "qwhom",
+              "regex": "^qwhom\\s*(\\w+)?$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Qwho",
+              "regex": "^(qw|qwc)$",
+              "script": ""
+       },
+       {
+              "isActive": "no",
+              "isFolder": "no",
+              "name": "qw by city",
+              "regex": "^qwa$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Marks",
+              "regex": "^(?:marks|Marks)\\s?(\\w+)?$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "display of city enemies by search pattern",
+              "regex": "^city\\s?enemies (\\w+)$",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "AR check",
+              "regex": "^ar (\\w+)$",
+              "script": ""
+       }
+]

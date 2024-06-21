@@ -1,0 +1,16 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Enemy Qwho Enemy",
+              "regex": "^en (.+)",
+              "script": ""
+       },
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Enemy Comp",
+              "regex": "^enteam$",
+              "script": ""
+       }
+]

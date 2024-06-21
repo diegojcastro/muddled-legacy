@@ -1,0 +1,9 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Change colours",
+              "regex": "^ndbs\\s?(\\w+)?\\s?(.+)?$",
+              "script": ""
+       }
+]

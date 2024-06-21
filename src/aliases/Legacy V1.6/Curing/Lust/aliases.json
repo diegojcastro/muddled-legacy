@@ -1,0 +1,9 @@
+[
+       {
+              "isActive": "yes",
+              "isFolder": "no",
+              "name": "Whitelist add remove",
+              "regex": "^lustlist\\s?(add|remove|clear)?\\s?((\\w+)|\\(none\\))?$",
+              "script": ""
+       }
+]

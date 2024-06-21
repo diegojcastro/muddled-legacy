@@ -1,0 +1,26 @@
+[
+       {
+              "name": "Lust attempt",
+              "isActive": "yes",
+              "isFolder": "no",
+              "multiline": "no",
+              "multilineDelta": "0",
+              "matchall": "no",
+              "filter": "no",
+              "fireLength": "0",
+              "highlight": "no",
+              "highlightFG": "#ff0000",
+              "highlightBG": "#ffff00",
+              "patterns": [
+                     {
+                            "pattern": "^(\\w+) quickly flings a tarot card at you, and you feel unreasonable lust for (\\w+)\\.$",
+                            "type": "regex"
+                     },
+                     {
+                            "pattern": "^As your gaze falls upon the depiction, an insatiable lust for the glorious (\\w+) comes over you\\.$",
+                            "type": "regex"
+                     }
+              ],
+              "script": ""
+       }
+]
